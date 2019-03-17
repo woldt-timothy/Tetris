@@ -1,0 +1,15 @@
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris.csprojAssemblyReference.cache
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\MainWindow.g.cs
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\App.g.cs
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris_MarkupCompile.cache
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris_MarkupCompile.lref
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\bin\Debug\WPFTetris.exe.config
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\bin\Debug\WPFTetris.exe
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\bin\Debug\WPFTetris.pdb
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\MainWindow.baml
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris.g.resources
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris.Properties.Resources.resources
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris.csproj.GenerateResource.cache
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris.csproj.CoreCompileInputs.cache
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris.exe
+C:\Users\woldt\source\repos\WPFTetris\WPFTetris\obj\Debug\WPFTetris.pdb
