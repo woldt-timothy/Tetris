@@ -290,6 +290,7 @@ namespace WPFTetris
                 if (Full)
                 {
                     RemoveRow(i);
+                    CheckRows();
                     Score += 10;
                     LinesFilled += 1;
                 }
