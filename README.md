@@ -1,2 +1,2 @@
 # Tetris
-A simple tetris app
+A simple tetris clone
